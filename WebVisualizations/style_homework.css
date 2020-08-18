@@ -27,12 +27,22 @@ body{
     align-items:start;
 }
 .left{
-   
     height:600px;
+    padding-left:20px;
+    padding-top:30px;
+    padding-right:20px;
+    padding-bottom:30px;
+    font-family:'Times New Roman', Times, serif;
+    color:#009a9a;
     background-color:white;
 }
 .right{
-
+    padding-left:20px;
+    padding-top:30px;
+    padding-right:20px;
+    padding-bottom:30px;
     height:550px;
+    font-family:'Times New Roman', Times, serif;
+    color:#009a9a;
     background-color:white;
 }
