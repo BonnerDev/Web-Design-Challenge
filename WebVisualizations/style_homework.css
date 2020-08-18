@@ -1,0 +1,13 @@
+.navbar-brand{
+    background-color: #009a9a;
+    overflow:hidden;
+    color: whitesmoke;
+}
+
+.nav-link{
+    text-align:right;
+}
+
+body{
+    background-color:#E9E9E9;
+}
