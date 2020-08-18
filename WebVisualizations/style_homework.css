@@ -1,13 +1,38 @@
 .navbar-brand{
     background-color: #009a9a;
     overflow:hidden;
-    color: whitesmoke;
+    color: white;
+    padding: 10px;
 }
 
-.nav-link{
+.navbar{
+    padding-bottom:0px;
+    }
+
+.navbar-nav a {
     text-align:right;
+    position:relative;
 }
 
 body{
     background-color:#E9E9E9;
+}
+
+.box{
+    display:grid;
+    margin-left:10%;
+    margin-top:100px;
+    column-gap:25px;
+    grid-template-columns: 55% 30%;
+    align-items:start;
+}
+.left{
+   
+    height:600px;
+    background-color:white;
+}
+.right{
+
+    height:550px;
+    background-color:white;
 }
